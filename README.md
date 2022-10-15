@@ -5,6 +5,7 @@ To add your company please add in the following format in Ascending order.
 
 | Company Name | Address | Website | Email | Contact |
 | --- | ---| --- | --- | --- |
+|AStrick Software Pvt. Ltd. | haratpur-9, Chitwan, Nepal | https://www.astricksoftware.com | support@astricksoftware.com | 980-2974990 |
 | Astranix Technologies Pvt. Ltd. | Bharatpur-10, Chitwan, Nepal | https://astranix.com | info@astranix.com | +977-9802034500 |
 | Devsign Technologies | Bagmati province, Bharatpur 10, Hakim Chowk, Chitwan | https://devsigntechnologies.com | hello@devsigntechnologies.com | 9802910012 |
 | Digital Yeti Pvt. Ltd. | Bharatpur-10, Chitwan, Nepal | https://www.digitalyeti.com.np/ | info@digitalyeti.com.np | +977-9855050309 |
